@@ -1,0 +1,31 @@
+{
+    "UF": [
+        {"name": "Acre", "initials": "AC", "cities": []},
+        {"name": "Alagoas", "initials": "AL", "cities": []},
+        {"name": "Amapá", "initials": "AP", "cities": []},
+        {"name": "Amazonas", "initials": "AM", "cities": []},
+        {"name": "Bahia", "initials": "BA", "cities": []},
+        {"name": "Ceará", "initials": "CE", "cities": []},
+        {"name": "Distrito Federal", "initials": "DF", "cities": []},
+        {"name": "Espírito Santo", "initials": "ES", "cities": []},
+        {"name": "Goiás", "initials": "GO", "cities": []},
+        {"name": "Maranhão", "initials": "MA", "cities": []},
+        {"name": "Mato Grosso", "initials": "MT", "cities": []},
+        {"name": "Mato Grosso do Sul", "initials": "MS", "cities": []},
+        {"name": "Minas Gerais", "initials": "MG", "cities": []},
+        {"name": "Pará", "initials": "PA", "cities": []},
+        {"name": "Paraíba", "initials": "PB", "cities": []},
+        {"name": "Paraná", "initials": "PR", "cities": []},
+        {"name": "Pernambuco", "initials": "PE", "cities": []},
+        {"name": "Piauí", "initials": "PI", "cities": []},
+        {"name": "Rio de Janeiro", "initials": "RJ", "cities": []},
+        {"name": "Rio Grande do Norte", "initials": "RN", "cities": []},
+        {"name": "Rio Grande do Sul", "initials": "RS", "cities": []},
+        {"name": "Rondônia", "initials": "RO", "cities": []},
+        {"name": "Roraima", "initials": "RR", "cities": []},
+        {"name": "Santa Catarina", "initials": "SC", "cities": []},
+        {"name": "São Paulo", "initials": "SP", "cities": []},
+        {"name": "Sergipe", "initials": "SE", "cities": []},
+        {"name": "Tocantins", "initials": "TO", "cities": []}
+    ]
+}
