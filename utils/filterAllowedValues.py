@@ -1,6 +1,5 @@
-def exec(values):
+def exec(values, allowedValues=["name", "initials", "region", "cities"]):
     response = []
-    allowedValues = ["name", "initials", "region", "cities"]
     for v in values:
         if v and str(v).lower() in allowedValues:
             response.append(v)
